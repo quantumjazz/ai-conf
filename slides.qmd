@@ -1,0 +1,28 @@
+---
+title: "Няколко примера за използване на ChatGPT вместо задания в moodle"
+author: "Виктор Аврамов"
+format:
+  revealjs:
+    incremental: true  
+editor: visual
+font-size: smaller
+---
+
+## Пример 1. "Изкуството на преговорите" {.centered-text}
+
+<div style="height: 100px;"></div> 
+
+- Първият [пример](https://e-edu.nbu.bg/mod/page/view.php?id=1272830) е от курс от дистанционното обучение.
+
+
+## Пример 2. "Общество, икономика и бизнес" {.centered-text}
+
+<div style="height: 100px;"></div> 
+
+- Вторият [пример](https://e-edu.nbu.bg/mod/resource/view.php?id=1285788) е от редовен GENB курс.
+
+## Пример 3. "Стратегии за развитие на бизнеса" {.centered-text}
+
+<div style="height: 100px;"></div> 
+
+- Третият [пример](https://e-edu.nbu.bg/mod/resource/view.php?id=1310886) е от отново от дистанционен курс. 
